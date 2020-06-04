@@ -7,6 +7,14 @@
         "nano": "~5.11.0",
         "feedparser":"~0.19.2",
         "redis":"~0.10.1",
-        "node-red": "1.0.6"
+        "node-red": "1.0.6",
+
+    "node-red-contrib-firebase": "",
+    "node-red-contrib-firebase-admin": "",
+    "node-red-contrib-md5": "",
+    "node-red-contrib-iiot-jwt": "",
+    "node-red-contrib-auth": ""
+ 
+
     }
 }
